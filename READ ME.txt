@@ -1,0 +1,29 @@
+READ ME
+*************************
+HANGMAN 1.0
+*************************
+
+This game has been developed as a project for an assignment by undergraduates reading for the B.Sc Software Engineerig from the University of Kelaniya. All rights reserved for the Department of Industrial Management of the University of Kelaniya.
+
+****************************
+  Introduction
+****************************
+
+This is a single Player Game.
+You can make 6 mistakes when guessing one word, if not you will be hanged.
+You can play the Game any number of times.
+The words to be guessed are all country names.
+The number of characters of the word are displayed in the screen for help.  
+
+
+****************************
+ Objectives
+****************************
+
+The Game is intended for any age . This will enhance the user to logical thinking ability and vocablary.
+
+****************************
+Controls
+****************************
+
+The user has to use the characters to guess.
